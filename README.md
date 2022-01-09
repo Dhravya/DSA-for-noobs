@@ -48,4 +48,4 @@ Size and is_empty are just helper functions
         |Quotient: 0 Remainder: 1  | - remainder added (Current stack: 101)
         ____________________________
         Answer will be the reverse of this stack : 101
-        ```
+    ```
