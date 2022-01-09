@@ -42,7 +42,7 @@ def convert_int_to_bin(dec_num):
     stack = Stack()
     print("___________________________")
     while True:
-        quotient = math.floor(dec_num / 2)
+        quotient = dec_num // 2
         remainder = dec_num % 2
         stack.push(remainder)
         dec_num = quotient
